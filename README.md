@@ -8,7 +8,8 @@ Chrome/ FireFox extension which removes the following div's "contextualIngressPt
    - Click "Load unpacked" and select the folder containing your extension files.
 
 ## To use this extension within FireFox
-   - https://addons.mozilla.org/en-GB/firefox/addon/amazon-div-remover/ (Still awaiting approval)
+   - https://addons.mozilla.org/en-GB/firefox/addon/amazon-div-remover/
+   ### OR
    - Open Firefox and go to about:debugging#/runtime/this-firefox.
    - Click on "Load Temporary Add-on..."
    - Select any file inside your extension folder.
